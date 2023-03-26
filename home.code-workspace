@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../자바스크립트/home"
+		},
+		{
+			"path": "../../자바스크립트/2023.3.20"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2023.3.20"
+	}
+}

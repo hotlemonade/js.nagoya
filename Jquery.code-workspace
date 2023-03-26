@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Jquery"
+		},
+		{
+			"path": "../../자바스크립트/home"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "home"
+	}
+}
